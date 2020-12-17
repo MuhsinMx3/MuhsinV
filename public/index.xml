@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI AND ML IN EDUCATION</title>
+    <link>http://example.org/</link>
+    <description>Recent content on AI AND ML IN EDUCATION</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Dec 2020 14:48:14 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence and Education</title>
+      <link>http://example.org/posts/intelligence/</link>
+      <pubDate>Thu, 17 Dec 2020 14:48:14 +0200</pubDate>
+      
+      <guid>http://example.org/posts/intelligence/</guid>
+      <description>Introduction Currently, technology is ubiquitous, including in the field of education, where it has been shown to be very important in achieving student learning outcomes. Education is no longer just a text instruction or a memorizing requirement for a student. The teaching process, both inside and outside the classroom, has become a work with measurable goals and outcomes. Over time, educational strategies have been identified as part of the inputs and outcomes of the learning process.</description>
+    </item>
+    
+  </channel>
+</rss>
